@@ -15,7 +15,7 @@ A modern web application for reading the Holy Bible with Tamil and English verse
 
 ### Prerequisites
 
-- Node.js 14 or higher
+- Node.js 20.19.0 or higher (or Node.js 22.12.0+)
 - npm or yarn package manager
 
 ### Installation
