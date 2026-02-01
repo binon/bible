@@ -1,0 +1,22 @@
+{
+  "name": "bible",
+  "version": "1.0.0",
+  "description": "Bible app with Tamil and English parallel verses",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["bible", "tamil", "english", "parallel"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
