@@ -155,7 +155,7 @@ All books are already registered in the `bibleMetadata` object with proper chapt
 
 ## Integrating External Bible APIs
 
-While the referenced bible-api (https://github.com/wldeh/bible-api) structure is documented, you can integrate any Bible API by:
+You can integrate external Bible APIs (such as https://github.com/wldeh/bible-api or others) to dynamically load Bible content:
 
 1. Creating an API service in `src/services/bibleApi.js`
 2. Fetching data dynamically based on selected book/chapter
